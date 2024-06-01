@@ -1,5 +1,5 @@
 # SystemTrayAppTemplate
 
-![App Screenshot](github/App_Screenshot.png)
+![GIF Demo](github/Demo.gif)
 
 A nice to look at template for a SystemTray app.
